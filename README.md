@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartikrai2206
+- 👋 Hi, I’m Kartik Rai
 - 👀 I’m interested in Devops and Cloud
 - 🌱 I’m currently learning AWS and Azure
 - 💞️ I’m looking to collaborate on Devops and Cloud related projects
