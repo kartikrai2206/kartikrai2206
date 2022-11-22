@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops and Cloud
 - 🌱 I’m currently learning AWS and Azure
 - 💞️ I’m looking to collaborate on Devops and Cloud related projects
-- 📫 Reach out on my email-id
+- 📫 Reach out on my email-id - kartikrai2206@gmail.com
 
 <!---
 kartikrai2206/kartikrai2206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
